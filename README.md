@@ -8,7 +8,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/NataliaHarashchuk/Storybook-Task.git
 2. **Install dependencies:**
    ```bash
    npm install
